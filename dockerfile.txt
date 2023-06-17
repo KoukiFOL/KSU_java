@@ -1,5 +1,0 @@
-FROM openjdk:11
-COPY . /user/kohki/java_study
-WORKDIR /user
-RUN 
-CMD ["java", "main"]
